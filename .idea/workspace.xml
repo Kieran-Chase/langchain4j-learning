@@ -4,35 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc748084-316c-4b6b-9534-834c3b5cb869" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-01helloworld/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-01helloworld/src/main/java/pers/kieran/study/HelloLangChain4JApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-01helloworld/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-01helloworld/src/main/java/pers/kieran/study/controller/HelloLangChain4JController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-01helloworld/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-02multi-model-together/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-02multi-model-together/src/main/java/pers/kieran/study/MultiModelLangChain4JApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-02multi-model-together/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-02multi-model-together/src/main/java/pers/kieran/study/controller/MultiModelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-02multi-model-together/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-03boot-integration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-03boot-integration/src/main/java/pers/kieran/study/BootIntegrationLangChain4JApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-03boot-integration/src/main/java/pers/kieran/study/controller/DeclarativeAIServiceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-03boot-integration/src/main/java/pers/kieran/study/controller/PopularIntegrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-03boot-integration/src/main/java/pers/kieran/study/service/ChatAssistant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-03boot-integration/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/LowHighApiLangChain4JApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/controller/HighApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/controller/LowApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/service/ChatAssistant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="bc748084-316c-4b6b-9534-834c3b5cb869" name="更改" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/ModelParametersLangChain4JApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/controller/ModelParameterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/listener/TestChatModelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/ChatImageModelLangChain4JApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/controller/ImageModelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/controller/WanxImageModelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/resources/static/images/mi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/ChatStreamLangChain4JApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/controller/StreamingChatModelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/service/ChatAssistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/controller/HighApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/controller/HighApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +37,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kieran-Chase&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kieran-Chase/langchain4j-learning.git&quot;,
+    &quot;accountId&quot;: &quot;7b6c587f-8133-4d7e-8449-5794077cf861&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -71,19 +78,22 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth0": "528",
+    "RequestMappingsPanelWidth1": "528",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.BootIntegrationLangChain4JApp.executor": "Run",
+    "Spring Boot.ChatImageModelLangChain4JApp.executor": "Run",
+    "Spring Boot.ChatStreamLangChain4JApp.executor": "Run",
     "Spring Boot.HelloLangChain4JApp.executor": "Run",
     "Spring Boot.LowHighApiLangChain4JApp.executor": "Run",
+    "Spring Boot.ModelParametersLangChain4JApp.executor": "Run",
     "Spring Boot.MultiModelLangChain4JApp.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/CODE/langchain4j/langchain4j-atguiguV5/langchain4j-04low-high-api/src/main/java/pers/kieran/study",
+    "last_opened_file_path": "D:/CODE/langchain4j/langchain4j-atguiguV5/langchain4j-07chat-stream/src/main/java/pers/kieran/study",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -94,11 +104,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-04low-high-api\src\main\java\pers\kieran\study" />
-      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-04low-high-api\src\main\resources" />
-      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-03boot-integration\src\main\java\pers\kieran\study" />
-      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-03boot-integration\src\main\resources" />
-      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-02multi-model-together\src\main\java\pers\kieran\study" />
+      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-07chat-stream\src\main\java\pers\kieran\study" />
+      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-07chat-stream\src\main\resources" />
+      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-06chat-image\src\main\java\pers\kieran\study" />
+      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-06chat-image\src\main\resources" />
+      <recent name="D:\CODE\langchain4j\langchain4j-atguiguV5\langchain4j-05model-parameters\src\main\java\pers\kieran\study" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -110,14 +120,32 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+    <option name="hiddenConfigurations">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <set>
+              <option value="BootIntegrationLangChain4JApp" />
+              <option value="HelloLangChain4JApp" />
+              <option value="LowHighApiLangChain4JApp" />
+              <option value="ModelParametersLangChain4JApp" />
+              <option value="MultiModelLangChain4JApp" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="configurationStatuses">
       <map>
         <entry key="SpringBootApplicationConfigurationType">
           <value>
             <map>
               <entry key="BootIntegrationLangChain4JApp" value="STOPPED" />
+              <entry key="ChatImageModelLangChain4JApp" value="STOPPED" />
+              <entry key="ChatStreamLangChain4JApp" value="STOPPED" />
               <entry key="HelloLangChain4JApp" value="STOPPED" />
               <entry key="LowHighApiLangChain4JApp" value="STOPPED" />
+              <entry key="ModelParametersLangChain4JApp" value="STOPPED" />
               <entry key="MultiModelLangChain4JApp" value="STOPPED" />
             </map>
           </value>
@@ -125,7 +153,7 @@
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.LowHighApiLangChain4JApp">
+  <component name="RunManager" selected="Spring Boot.ChatStreamLangChain4JApp">
     <configuration name="BootIntegrationLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="langchain4j-03boot-integration" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="pers.kieran.study.BootIntegrationLangChain4JApp" />
@@ -135,6 +163,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatImageModelLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-06chat-image" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.kieran.study.ChatImageModelLangChain4JApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.kieran.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatStreamLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-07chat-stream" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.kieran.study.ChatStreamLangChain4JApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,6 +207,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ModelParametersLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-05model-parameters" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.kieran.study.ModelParametersLangChain4JApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.kieran.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiModelLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="langchain4j-02multi-model-together" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="pers.kieran.study.MultiModelLangChain4JApp" />
@@ -174,9 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ChatImageModelLangChain4JApp" />
+        <item itemvalue="Spring Boot.ModelParametersLangChain4JApp" />
+        <item itemvalue="Spring Boot.BootIntegrationLangChain4JApp" />
         <item itemvalue="Spring Boot.MultiModelLangChain4JApp" />
         <item itemvalue="Spring Boot.HelloLangChain4JApp" />
-        <item itemvalue="Spring Boot.BootIntegrationLangChain4JApp" />
       </list>
     </recent_temporary>
   </component>
@@ -199,11 +262,26 @@
       <workItem from="1772362262199" duration="5678000" />
       <workItem from="1772377257959" duration="1704000" />
       <workItem from="1772523443870" duration="1509000" />
-      <workItem from="1772698605131" duration="6958000" />
+      <workItem from="1772698605131" duration="7036000" />
+      <workItem from="1772762525324" duration="4484000" />
+      <workItem from="1772877021168" duration="4792000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1772718485617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772718485617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

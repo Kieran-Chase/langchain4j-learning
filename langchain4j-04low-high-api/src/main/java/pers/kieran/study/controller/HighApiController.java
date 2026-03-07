@@ -17,7 +17,7 @@ public class HighApiController
     private ChatAssistant chatAssistant;
 
     @GetMapping(value = "/highapi/highapi")
-    public String highApi(@RequestParam(value = "prompt", defaultValue = "你是谁") String prompt)
+    public String highApi(@RequestParam(value = "prompt", defaultValue = "你能干嘛") String prompt)
     {
         return chatAssistant.chat(prompt);
     }
