@@ -4,29 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc748084-316c-4b6b-9534-834c3b5cb869" name="更改" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/ModelParametersLangChain4JApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/controller/ModelParameterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/java/pers/kieran/study/listener/TestChatModelListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-05model-parameters/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/ChatImageModelLangChain4JApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/controller/ImageModelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/java/pers/kieran/study/controller/WanxImageModelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-06chat-image/src/main/resources/static/images/mi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/ChatStreamLangChain4JApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/controller/StreamingChatModelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/java/pers/kieran/study/service/ChatAssistant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain4j-07chat-stream/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="bc748084-316c-4b6b-9534-834c3b5cb869" name="更改" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/langchain4j-08chat-memory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-08chat-memory/src/main/java/pers/kieran/study/ChatMemoryLangChain4JApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-08chat-memory/src/main/java/pers/kieran/study/config/LLMConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-08chat-memory/src/main/java/pers/kieran/study/controller/ChatMemoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-08chat-memory/src/main/java/pers/kieran/study/service/ChatAssistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-08chat-memory/src/main/java/pers/kieran/study/service/ChatMemoryAssistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain4j-08chat-memory/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/controller/HighApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/langchain4j-04low-high-api/src/main/java/pers/kieran/study/controller/HighApiController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,8 +64,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "528",
-    "RequestMappingsPanelWidth1": "528",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -93,7 +79,7 @@
     "Spring Boot.MultiModelLangChain4JApp.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/CODE/langchain4j/langchain4j-atguiguV5/langchain4j-07chat-stream/src/main/java/pers/kieran/study",
+    "last_opened_file_path": "D:/CODE/langchain4j/langchain4j-atguiguV5/langchain4j-08chat-memory/src/main/java/pers/kieran/study",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -264,7 +250,8 @@
       <workItem from="1772523443870" duration="1509000" />
       <workItem from="1772698605131" duration="7036000" />
       <workItem from="1772762525324" duration="4484000" />
-      <workItem from="1772877021168" duration="4792000" />
+      <workItem from="1772877021168" duration="4941000" />
+      <workItem from="1772982631665" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -274,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772718485617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1772890714956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772890714957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +277,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
